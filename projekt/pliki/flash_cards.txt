@@ -6,3 +6,5 @@ approach=move towards
 coast=the shore of a sea or ocean
 macoroni=a delicious food
 pizza=a delicious food
+python=best programming language
+C=worst programming language
