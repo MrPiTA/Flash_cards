@@ -1,10 +1,6 @@
-minute=infinitely or immeasurably small
-evident=clearly revealed to the mind or the senses or judgment
-practice=a customary way of operation or behavior
-concern=something that interests you because it is important
-approach=move towards
-coast=the shore of a sea or ocean
-macoroni=a delicious food
-pizza=a delicious food
-python=best programming language
-C=worst programming language
+pojęcie<=>definicja
+DNA<=>kwas deoksyrybonukleinowy biorący udział w biosyntezie białka i przenoszeniu cech dziedzicznych
+RNA<=>kwas rybonukleinowy występujący w każdej żywej komórce
+histon<=>białko zasadowe występujące w jądrach komórkowych roślin i zwierząt
+rybosom<=>występująca w komórce struktura, w której przebiega synteza białek
+mitochondrium<=>organelle znajdujące się w komórkach roślinnych i zwierzęcych, będące źródłem energii życiowej komórki
